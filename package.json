@@ -1,0 +1,9 @@
+{
+    "name": "com.baba-s.kogane-mute-audio-menu-item",
+    "displayName": "Kogane Mute Audio Menu Item",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "author": "baba-s",
+    "description": "",
+    "dependencies": {}
+}
